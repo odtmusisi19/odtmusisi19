@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/OgiTena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angginuraziz10" height="30" width="40" /></a>
-<a href="https://medium.com/@ogidarmatena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anggin" height="30" width="40" /></a>
+<a href="https://medium.com/@ogidarmatena" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="anggin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
